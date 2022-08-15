@@ -1,0 +1,19 @@
+{
+  "name": "steamcommentbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "moment": "^2.29.3",
+    "steam-totp": "^2.1.2",
+    "steam-tradeoffer-manager": "^2.10.5",
+    "steam-user": "^4.24.3",
+    "steamcommunity": "^3.44.1"
+  }
+}
