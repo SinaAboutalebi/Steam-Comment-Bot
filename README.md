@@ -72,7 +72,7 @@ This is an example of how to list things you need to use the software and how to
    ```
 3. Edit Config File
    ```json
-         "username":"username",
+        "username":"username",
         "password":"password",
         "admin":"adminID64",
         "identitySecret":"Search On Google"
